@@ -6,3 +6,5 @@ Below are some projects I built in my spare time and are open-source. If you'd l
 
 I'm currently pursuing a master's degree in University of Florida.
 For any enquiries or collaborations, please reach out to me at <br/> ✨uzair.fasih@outlook.com✨ and let's talk.
+
+My leetcode: https://leetcode.com/uzairfassi. It's a race to the top 🚀
